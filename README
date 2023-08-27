@@ -1,0 +1,12 @@
+
+SOME EXPLANATIONS
+
+rasterize.py : This file has the Bresenham line drawing algo which is used for heuristic calculation as well as planning straight line paths. 
+Contains 2 functions- planLineLow and planLinehigh - that rasterize the line in pixels based on its slope. A third function rasterize calls these two functions. 
+The remaining two are versions of the rasterize function based on the requirement at the time of calling. 
+
+
+search_path.py : This file contains the implementations of both A - star search algos used in this work.
+
+AuxillaryFunctions.py : This file contains functions for creating graphs for searching. eight_neighbors function is used for identifying neighbors of a particular node. 
+RecoverPath function is used by both A-Star implementations to recover path after reaching goal. 
