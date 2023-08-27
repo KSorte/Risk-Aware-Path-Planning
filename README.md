@@ -1,16 +1,6 @@
-# Risk Aware Path Planner Take Home Problem
-
-This problem is designed to give Zipline an idea of how you think and program.
-It is a realistic (albeit simplified) version of the problem we face every-day
-while planning paths for our Zips. Through this project you'll get a small taste of what
-working on these problems would be like, and we will get a chance to see what you're capable
-of.
-
-This problem is not designed to be _easy_, but it is designed to be solvable in a couple
-of hours. We don't expect a perfect solution! Please don't spend any longer than 6 hours on this.
 
 # The Problem
-Zipline is opening a new nest internally called `BON-0`! After a large cross team effort,
+A new drone nest is opened internally called `BON-0`! After a large cross team effort,
 all of the information for the new nest has been compiled into one file `nest_info.yaml`.
 This includes the nest coordinates, the coordinates for numerous delivery sites, and the maximum range of the zip.
 The only thing missing is the paths to get to those excited customers!
