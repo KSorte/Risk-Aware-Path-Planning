@@ -1,4 +1,5 @@
 # Risk Aware Path Planner Take Home Problem
+In this repository is my attempt at solving the problem detailed below. 
 
 This problem is designed to give Zipline an idea of how you think and program.
 It is a realistic (albeit simplified) version of the problem we face every-day
