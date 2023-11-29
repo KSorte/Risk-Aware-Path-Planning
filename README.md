@@ -30,19 +30,3 @@ keep out zones, _minimizes_ entry into high risk zones, and gets to the site wit
 
 - Be careful of the coordinate order! The map stores coordinates in (east, north) order. The bottom left of the plot corresponds to 0,0 (similar to a mathematical x,y axis).
 -  Only the path step start and end points are considered (so cutting corners is a valid tactic!)
-	
-### Hint:
-Your path planner should try to optimize BOTH length and cost. There may be multiple "good" ways to get from point A to point B. For example if path 1 has cost=0 and length=20 but path 2 has cost=1 but length=10 which one is "better"? What if the zip only has a range of 10?
-
-
-# Some guiding principles...
-
-## Your answer does not need to be perfect.
-
-## Simple is better than complex
-
-## Readability Counts
-
-## Practicality and pragmatic problem solving trump perfection
-
-## Feel free to email questions to your recruiter / the engineer who sent you this problem if you have any!
